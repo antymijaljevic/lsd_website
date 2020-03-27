@@ -1,15 +1,15 @@
 function ingredientsHover(){
-  document.getElementById('ingredients').firstElementChild.firstElementChild.style.fontSize ="300%";
+  document.getElementById('ingredients').style.fontSize ="130%";
 }
 
 function ingredientsNormal(){
-  document.getElementById('ingredients').firstElementChild.firstElementChild.style.fontSize ="100%";
+document.getElementById('ingredients').style.fontSize ="100%";
 }
 
 function preparationHover(){
-  document.getElementById('preparation').firstElementChild.firstElementChild.style.fontSize ="300%";
+  document.getElementById('preparation').style.fontSize ="130%";
 }
 
 function preparationNormal(){
-  document.getElementById('preparation').firstElementChild.firstElementChild.style.fontSize ="100%";
+  document.getElementById('preparation').style.fontSize ="100%";
 }
